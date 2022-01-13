@@ -1,0 +1,6 @@
+framework module OpusKit {
+  umbrella header "OpusKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

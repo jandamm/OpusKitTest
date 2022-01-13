@@ -1,0 +1,16 @@
+PODS:
+  - OpusKit (1.0.1)
+
+DEPENDENCIES:
+  - OpusKit
+
+SPEC REPOS:
+  trunk:
+    - OpusKit
+
+SPEC CHECKSUMS:
+  OpusKit: ddec47141b52a132c6cb37b2947b58f3901106e9
+
+PODFILE CHECKSUM: 05304f54fcea95e98a0d69383a68dff3a30eae48
+
+COCOAPODS: 1.11.2
